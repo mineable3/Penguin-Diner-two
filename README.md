@@ -11,6 +11,7 @@ Throughout writing the program I've tried to steer away from looking at pixel RG
 
 ## Where I'm leaving it
 The Algorythm *purposely misspelled* can complete a full day, but does have some unfortunate issues
+
     - If anything happens after the timer said it should there is no correcting the mistake
     - There is nothing for manuvering through the menus, except hitting `resume game` at the start
     - The algorithm can't tell what food should go where
