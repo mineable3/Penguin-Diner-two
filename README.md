@@ -12,10 +12,10 @@ Throughout writing the program I've tried to steer away from looking at pixel RG
 ## Where I'm leaving it
 The Algorythm *purposely misspelled* can complete a full day, but does have some unfortunate issues
 
-    - If anything happens after the timer said it should there is no correcting the mistake
-    - There is nothing for manuvering through the menus, except hitting `resume game` at the start
-    - The algorithm can't tell what food should go where
-    - If more than three pieces of food are made at a time, the extra food will never be collected
-    - I never implemented `twins`, the name I gave to pairs of customers
+- If anything happens after the timer said it should there is no correcting the mistake
+- There is nothing for manuvering through the menus, except hitting `resume game` at the start
+- The algorithm can't tell what food should go where
+- If more than three pieces of food are made at a time, the extra food will never be collected
+- I never implemented `twins`, the name I gave to pairs of customers
 
 Even with all of those bugs, I've done much better than I thought I could and I'm happy with how well I did
