@@ -1,8 +1,10 @@
 ## Robot
+
 I recently found out about a class in java called `Robot` capable of moving and clicking your mouse, pressing your keyboard and looking at your screen. This is a project to see if I can write a program to play [Penguin Diner 2](https://www.coolmathgames.com/0-penguin-diner-2)
 
 
 # The program
+
 Throughout writing the program I've tried to steer away from looking at pixel RGB values and use constants for pixel coords because it will change with each screen and possibly web browser. I'm very proud of this program and it seems fairly robust. 
 ------------------------------------------------------------
 
@@ -10,6 +12,7 @@ Throughout writing the program I've tried to steer away from looking at pixel RG
 ------------------------------------------------------------
 
 ## Where I'm leaving it
+
 The Algorythm *purposely misspelled* can complete a full day, but does have some unfortunate issues
 
 - If anything happens after the timer said it should there is no correcting the mistake
@@ -19,3 +22,5 @@ The Algorythm *purposely misspelled* can complete a full day, but does have some
 - I never implemented `twins`, the name I gave to pairs of customers
 
 Even with all of those bugs, I've done much better than I thought I could and I'm happy with how well I did
+
+[Here](https://youtu.be/hnQbWr1whJI) is a video of the program in action. The video is unlisted, so you can only access it by this link.
